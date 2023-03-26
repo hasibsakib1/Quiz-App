@@ -1,5 +1,6 @@
 # first_app
-Flutter learning period.
+Flutter learning period. 
+
 A new Flutter project.
 
 ## Getting Started
